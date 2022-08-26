@@ -1,7 +1,7 @@
-# Java-Notes-in-One-Shot
+# Java Notes in One Shot
 This repository contains my notes of Java in One Shot.
 
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 
 
